@@ -1,4 +1,8 @@
-﻿Public Class Form1
+﻿'Patricia Hanus
+'151105
+'Add Primes
+'___________________________________________________________________________
+Public Class Form1
 
     Private Sub btnAddPrimes_Click(sender As Object, e As EventArgs) Handles btnAddPrimes.Click
         Dim num1 As Integer = Val(Me.txtNum1.Text)
